@@ -1,5 +1,11 @@
 # Post messages
 
+<p>
+<a href="https://www.npmjs.com/package/@sinups/post-message"><img src="https://img.shields.io/npm/v/@sinups/post-message?style=plastic" alt="NPM version" /></a>
+<a href="https://www.npmjs.com/package/@sinups/post-message"><img src="https://img.shields.io/bundlephobia/min/@sinups/post-message" alt="NPM version" /></a>
+<a href="https://www.npmjs.com/package/@sinups/post-message"><img src="https://img.shields.io/bundlephobia/minzip/@sinups/post-message" alt="NPM version" /></a>
+
+</p>
 Simple postMessage API.
 Allows for subscribing and easy back and forth messaging between iframes.
 
